@@ -43,5 +43,6 @@ The final output layer of Generator generate 12 by 12 by 10 image. The final lay
 
 Here, discriminator model take 12 by 12 by 10 image that can be real or generated. This input image is downsampled using Convolution layer and is finally flattened and is fed to single neuron so that it can distinguish real and fake image. Since, final layer uses sigmoid function as activation, it output value in between 0 and 1. Here value greater than 0.5 refers to real and less than 0.5 refers to fake image. The output of discriminator is used in training of generator.
 
-##data set link:
+**data set link:**
+
 processed-celeba-small dataset zip file: "https://drive.google.com/file/d/1-9fjO6Mfpb8BzijuDdQf-NML8aYseJNH/view?usp=sharing"
