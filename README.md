@@ -1,4 +1,4 @@
-# Fake-Face-Generation-Using-GAN
+# ✨ Fake-Face-Generation-Using-GAN✨ 
 
 **INTRODUCTION :**
 Generative Adversarial Networks (GANs) are generative models. They are uses unsupervised technique to generate new things. GAN models learns pattern in input data in such a way that they can generate new sample which resemble with the input data. The main aim of generative adversarial network is to match generated distribution with the original data distribution.
